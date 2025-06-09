@@ -21,7 +21,7 @@
 | 3 | MeteorChic 智能衣柜 | 让衣柜比你先懂流行 | jcy, Hope, 科技达人, wyh |  | (无) |
 | 4 | RiseTrack |  | Unknownuserfrommars, unDefFtr, THE TYLER, 原野阿千 |  | (无) |
 | 5 | AllergyEyes (过敏眼) | 慧眼识食，安心入口 | danneshca, 无治, Dubi906w, 叭虫 | 🥈 |  |
-| 6 |  |  | Eason, skrlemst, 玖小柒, 凌轩 |  |  |
+| 6 | 食荐者 | 个性化膳食推荐系统 | Eason, skrlemst, 玖小柒, 凌轩 |  | [FE🔗](https://github.com/zhujin917/food-recommender-frontend),[BE🔗](https://github.com/junzhij/CMS-sjz) |
 | 7 | 忆家 | 让每段记忆 都成为家族的力量 | Hello8693, Max, Tim, 太虚烬渊 | 🎉 |  |
 | 8 | [Clother 衣者](https://clother.smart-teach.cn) | 你负责保持好心情，我们负责打扮好心情 | Zac, ln, 瑞瑞, [jiangyin14](https://github.com/jiangyin14) | 🥇 | [🔗](https://github.com/Moonshot48/clother) |
 | 9 | 源代码漏洞补丁识别 | 战胜未知，铸造奇迹 | XHZ-zzt, 玉米, Piqlmxiu, 小亓 |  | (无) |
